@@ -1,4 +1,4 @@
-
+# For AWS the name of the application file should be application.py
 # importing the necessary dependencies
 from flask import Flask, render_template, request
 import pickle

@@ -1,3 +1,4 @@
+# For heroku the name of application file should be app.py
 
 # importing the necessary dependencies
 from flask import Flask, render_template, request
